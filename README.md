@@ -1,2 +1,2 @@
-# innopolice_solution
+# innopolis_solution
 Предсказание вида произрастающего растения на определенной территории по его NDVI
